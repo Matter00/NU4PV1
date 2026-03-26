@@ -11,6 +11,7 @@ export const defaultClasses: Record<string, SchoolClass> = {
     grid: {},
     studentPassword: "1234",
     teacherPassword: "abcd",
+    statusControlsEnabled: true,
   },
 };
 

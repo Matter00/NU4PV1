@@ -18,6 +18,7 @@ type Theme = {
 };
 
 export const STORAGE_KEY_PAGE_COLOR = "nu4p_page_color";
+export const STORAGE_KEY_TOASTS_ENABLED = "nu4p_toasts_enabled";
 
 export const NOVA_THEME: Theme = {
   shellBase: {
